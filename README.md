@@ -1,2 +1,3 @@
 # CSV_to_HTML_table
-A csv to html converter
+This is a very short program written in the awk text processing language, and is ran via the bash script "csv_to_html_table.sh". The way to run it in a Linux shell is as follows: ./csv_to_html_table.sh <name_of_csv_data_file>.csv. As one might deduce, the purpose of the program is to take a csv file as an input and to launch the data in a firefox browser as a html table. Sometimes I find it useful to get a feel for what the csv data contains by visually observing what the data looks like, and an awksome way to do this is to quickly create a table and take a look.  
+However, considerations of utility (or lack thereof) aside, the main motivation behind writing this program is to practice my skills in awk and bash.
